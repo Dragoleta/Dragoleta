@@ -1,4 +1,4 @@
-Hi 👋 My name is Jorge Lucas
+Olá! Meu nome é Jorge Lucas
 ============================
 
 Desenvolvedor Python e Estudante de Análise e desenvolvimento de sistemas, IFPE
